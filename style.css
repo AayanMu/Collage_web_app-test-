@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(224, 224, 224);
+}
+
+#i1{
+    border: 10px solid rgb(169, 169, 169);
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+#i2{
+    border: 10px solid rgb(169, 169, 169);
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+#i3{
+    border: 10px solid rgb(169, 169, 169);
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+#i1:hover{
+border-radius: 140px;
+}
+
+#i2:hover{
+border-radius: 140px;
+ }
+
+#i3:hover{
+ border-radius: 140px;
+}
+
+#camera{
+    width: 500px;
+    height: 500px;
+    border: 5px dashed rgb(50, 50, 50);
+}
